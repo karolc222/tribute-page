@@ -1,0 +1,57 @@
+<style> 
+html {
+  font-size: 10px;
+}
+
+#main {
+  text-align: center;
+  color: #333;
+  margin: 0;
+  font-family: Helvetica
+}
+
+  h1 {
+    padding: 40px;
+    color: grey;
+    background-color: black;
+  }
+
+h2 {
+  padding: 10px;
+  color: grey;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  padding: 10px;
+  max-width: 600px;
+  margin: auto;
+  text-align: justify;
+}
+
+.quote { 
+  padding: 10px;
+  color: red;
+  text-align: center;
+  height: 20px;
+}
+
+ul { 
+  max-width: 600px;
+  margin: 20px auto 20px auto; 
+  text-align: left; 
+  line-height: 1.5;
+}
+
+#image { 
+  display: block;
+  max-width: 100%;
+  height: auto; 
+  margin: 0 auto;
+}
+#img-caption { 
+  font-size: 12px;
+}
+
+</style> 
